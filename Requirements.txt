@@ -1,0 +1,5 @@
+Download this file GoogleNews-vectors-negative300.bin from Google and Place it in folder 'word2vec-applications-transfer-learning-nlp-master'
+Rest everything is given in the repo.
+
+
+
